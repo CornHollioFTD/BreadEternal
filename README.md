@@ -45,3 +45,15 @@ After original Master breadboard block is repaired or reconnected - Master will 
 When vehicle is saved - Master will always be saved at its current location. Use "Repair All" after combat for best result.
 
 Minion-breads are "real" breads - you can have stuff in them and it will work (that is until Master will get moved into it).
+
+
+
+There is no Steam support.
+
+To install the mod:
+1. Download BreadEternal.zip.
+https://raw.githubusercontent.com/CornHollioFTD/BreadEternal/main/BreadEternal.zip
+2. Unzip it into FtD's mod folder.
+3. It should look something like this:
+c:\Users\[YourUserName]\Documents\From The Depths\Mods\BreadEternal\BreadEternal.dll
+
