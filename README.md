@@ -6,6 +6,8 @@ tl;dr
 2. Add Comment component with text "BreadEternalMinion" to empty (and properly connected) breads to give main bread redundancy without performance impact.
 3. Done.
 
+Video guide:
+https://raw.githubusercontent.com/CornHollioFTD/BreadEternal/main/BreadEternal%20Setup.mov
 
 
 Explanation:
