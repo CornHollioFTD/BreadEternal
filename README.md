@@ -54,7 +54,7 @@ There is no Steam support.
 
 To install the mod:
 1. Download BreadEternal.zip.
-https://raw.githubusercontent.com/CornHollioFTD/BreadEternal/main/BreadEternal.zip
+https://raw.githubusercontent.com/CornHollioFTD/BreadEternal/main/BreadEternal.rar
 2. Unzip it into FtD's mod folder.
 3. It should look something like this:
 c:\Users\[YourUserName]\Documents\From The Depths\Mods\BreadEternal\BreadEternal.dll
